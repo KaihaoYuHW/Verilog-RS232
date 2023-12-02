@@ -2,8 +2,11 @@
 implement RS232 with Verilog and use loopback to test it.
 
 The information for each module (see .md) is in "doc".
+
 The whole project file created in ISE Project Navigator, which also includes the bit file,  is in "ise_project".
+
 The implementation of all modules (see .v) is in "ise_project".
+
 All testbenches of each module are in "sim".
 
 # RS232
