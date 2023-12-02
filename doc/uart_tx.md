@@ -2,7 +2,7 @@
 
 ## module diagram
 
-![](E:\IC_design\Verilog\fuxi\rs232\doc\uart_tx_module.png)
+![](https://github.com/KaihaoYuHW/Verilog-RS232/blob/main/doc/uart_tx_module.png)
 
 ## signals
 
@@ -20,4 +20,4 @@
 
 ## waveform
 
-![](E:\IC_design\Verilog\fuxi\rs232\doc\uart_tx_waveform.bmp)
+![](https://github.com/KaihaoYuHW/Verilog-RS232/blob/main/doc/uart_tx_waveform.bmp)
