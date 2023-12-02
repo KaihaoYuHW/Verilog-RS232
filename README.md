@@ -4,8 +4,6 @@ implement RS232 with Verilog and use loopback to test it.
 ## project structure
 - "doc": the information for each module (see .md)
 
-- "ise_project": the whole project file created in ISE Project Navigator, which also includes the bit file
-
 - "rtl": the implementation of all modules (see .v)
 
 - "sim": all testbenches of each module
